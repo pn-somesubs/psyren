@@ -1,0 +1,358 @@
+[Script Info]
+Title: pn-SomeSubs - PSYREN
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: DefaultItalics,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: DefaultTop,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: DefaultItalicsTop,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: Flashback,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Signs,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,54,0
+Style: Signs_EpTitle,Times New Roman,75,&H00FFFFFF,&H000000FF,&H28C45E4B,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,8,90,90,54,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,DefaultItalics,,0,0,0,,{\fs50\an7\fe162\b1\fad(400,400)\bord2\blur5\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} MykoAecor\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} \N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} MykoAecor\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 9,0:00:01.56,0:00:03.08,DefaultItalics,SIGN & VO,0,0,0,,Efsaneyi biliyor musun?
+Dialogue: 9,0:00:03.08,0:00:04.98,DefaultItalics,SIGN & VO,0,0,0,,Ankesörlü telefonlar hakkında acayip bir şey duydum.
+Dialogue: 9,0:00:04.98,0:00:07.58,DefaultItalics,SIGN & VO,0,0,0,,Eğer telefonu açarsan cennete alınırmışsın.
+Dialogue: 9,0:00:07.58,0:00:08.71,DefaultItalics,SIGN & VO,0,0,0,,Gerçekten mi?
+Dialogue: 9,0:00:09.49,0:00:11.66,DefaultItalics,SIGN & VO,0,0,0,,Ankesörlü telefonlar çok nostaljik.
+Dialogue: 9,0:00:12.08,0:00:13.86,DefaultItalics,SIGN & VO,0,0,0,,Hala onlardan var mı?
+Dialogue: 9,0:00:14.49,0:00:16.99,DefaultItalics,SIGN & VO,0,0,0,,Okulda onların nasıl kullanıldığını öğrenmiştim.
+Dialogue: 9,0:00:16.99,0:00:19.50,DefaultItalicsTop,SIGN & VO,0,0,0,,Televizyonda gördüm. İnsanlar kaybolmaya başlamış.
+Dialogue: 9,0:02:01.23,0:02:03.00,DefaultTop,HENCHMAN 1,0,0,0,,Siz iyi misiniz Hando Bey?
+Dialogue: 9,0:02:03.00,0:02:05.05,DefaultTop,HENCHMAN 2,0,0,0,,Dayanın!
+Dialogue: 9,0:02:05.05,0:02:07.04,Default,HENCHMAN 1,0,0,0,,Bu bücür de {\i1}kim?
+Dialogue: 9,0:02:07.04,0:02:08.19,Default,AGEHA,0,0,0,,Kime bücür diyorsun?
+Dialogue: 9,0:02:08.86,0:02:12.45,Default,AGEHA,0,0,0,,Ben Shira Lisesi 1-C'den Yoshina Ageha'yım.
+Dialogue: 9,0:02:12.45,0:02:17.96,Default,AGEHA,0,0,0,,Öğrencilerimizden zorla para aldığı için o gorile bir ders verdim.
+Dialogue: 9,0:02:17.96,0:02:19.71,Default,AGEHA,0,0,0,,Görev tamamlandı.
+Dialogue: 9,0:02:19.71,0:02:21.78,Default,HIROKI,0,0,0,,Kötü adam avı nasıl gitti?
+Dialogue: 9,0:02:21.78,0:02:23.84,Default,SAKA,0,0,0,,Ageha yine kazandı.
+Dialogue: 9,0:02:23.84,0:02:27.76,Default,SAKA,0,0,0,,Gerçekten de on bin yen için her şeyi halledebiliyor.
+Dialogue: 9,0:02:27.76,0:02:33.85,Default,HIROKI,0,0,0,,Bela bulmak için çok uğraşıyor ama.
+Dialogue: 9,0:02:35.04,0:02:38.67,Default,SAKA,0,0,0,,Kendisi sadece birilerini dövmek için bahane arıyor.
+Dialogue: 9,0:02:39.94,0:02:42.41,Default,AGEHA,0,0,0,,Ben çok sıkıldım.
+Dialogue: 9,0:02:43.28,0:02:48.93,DefaultItalics,AGEHA/ID,0,0,0,,İnternette dünyamızın sonunun geldiğini duydum.
+Dialogue: 9,0:02:49.78,0:02:54.17,DefaultItalics,AGEHA/ID,0,0,0,,Saldığımız zehirli gazlar Dünya'yı fazla sıcak yapıyor
+Dialogue: 9,0:02:54.17,0:02:56.38,DefaultItalics,AGEHA/ID,0,0,0,,ve bir gün bu bizi öldürecek.
+Dialogue: 9,0:02:56.78,0:02:59.39,DefaultItalics,AGEHA/ID,0,0,0,,Nükleer silahlardan ya da savaşlardan kaçınamıyoruz
+Dialogue: 9,0:02:59.39,0:03:02.76,DefaultItalics,AGEHA/ID,0,0,0,,ve Japonya bunlardan birine sürüklendiğinde yok olacak.
+Dialogue: 9,0:03:02.76,0:03:07.13,DefaultItalics,AGEHA/ID,0,0,0,,30 sene içinde petrolümüz bitecek, ki bu da bizi enerji krizine sokar.
+Dialogue: 9,0:03:07.43,0:03:10.46,Default,AGEHA,0,0,0,,İşim bitti Saka ve Hiro.
+Dialogue: 9,0:03:10.75,0:03:14.75,DefaultItalics,AGEHA/ID,0,0,0,,İnternetteki anonim tacizlerin ciddi bir öldürme sayısı var.
+Dialogue: 9,0:03:14.75,0:03:17.66,DefaultItalics,AGEHA/ID,0,0,0,,Emekli maaşı alıp alamayacağımız belli değil.
+Dialogue: 9,0:03:17.66,0:03:18.35,DefaultItalics,AGEHA/ID,0,0,0,,Ama...
+Dialogue: 9,0:03:18.35,0:03:21.27,Default,AGEHA,0,0,0,,Sikimde değil.
+Dialogue: 9,0:03:21.27,0:03:23.67,Default,SAKA,0,0,0,,Ne değil Yoshina?
+Dialogue: 9,0:03:23.67,0:03:28.19,Default,AGEHA,0,0,0,,Seni ilgilendirmez. Sadece hayatım hakkında düşünüp duruyorum.
+Dialogue: 9,0:03:28.19,0:03:32.02,Default,HIROKI,0,0,0,,Başka bir şey hakkında düşünmeden önce derslerini çalışmaya odaklanmalısın Ageha.
+Dialogue: 9,0:03:33.10,0:03:34.82,Default,AGEHA,0,0,0,,Yetişkin olan sen değil misin Hiroki?
+Dialogue: 9,0:03:35.51,0:03:38.93,DefaultItalics,AGEHA/ID,0,0,0,,Neyse ne. Geleceğim kimin umurunda ki?
+Dialogue: 9,0:03:38.93,0:03:41.00,DefaultItalics,AGEHA/ID,0,0,0,,Ben sadece şu anda yaşamayı önemsiyorum.
+Dialogue: 9,0:03:42.08,0:03:43.29,Default,AGEHA,0,0,0,,Lanet olsun!
+Dialogue: 9,0:03:43.29,0:03:47.21,Default,AGEHA,0,0,0,,Acilen eve geri döneme gerek yoksa ablam yine beni dövecek.
+Dialogue: 9,0:03:52.39,0:03:54.45,Default,AGEHA,0,0,0,,O ankesörlü telefon çalıyor mu?
+Dialogue: 9,0:03:55.24,0:03:56.57,Default,AGEHA,0,0,0,,Korkutucu!
+Dialogue: 9,0:03:56.57,0:03:58.39,Default,AGEHA,0,0,0,,Yanlış numara mı?
+Dialogue: 9,0:03:58.99,0:04:00.88,Default,AGEHA,0,0,0,,Cevaplamalı mıyım?
+Dialogue: 9,0:04:02.15,0:04:03.39,Default,AGEHA,0,0,0,,Sanırım cevaplamalıyım.
+Dialogue: 9,0:04:05.08,0:04:07.35,Default,AGEHA,0,0,0,,Merhaba, kiminle görüşüyorum?
+Dialogue: 9,0:04:14.86,0:04:15.74,Default,AGEHA,0,0,0,,Sen de kimsin?
+Dialogue: 9,0:04:18.74,0:04:23.37,Default,AGEHA,0,0,0,,K-Kayboldu mu? O da neydi?
+Dialogue: 9,0:04:28.13,0:04:31.46,DefaultTop,,0,0,0,,ÇN: Telefon kartı ankesörlü telefonlarda arama yapmak için kullanılan, önceden ödenmiş kartlardır.
+Dialogue: 9,0:04:28.13,0:04:31.46,Default,AGEHA,0,0,0,,Bu... bir telefon kartı mı?
+Dialogue: 9,0:04:31.83,0:04:34.47,Default,AGEHA,0,0,0,,P... P-sy-ren?
+Dialogue: 9,0:04:37.64,0:04:41.74,Default,SAKA,0,0,0,,Hey! Yorulmuş gözüküyorsun Ageha.
+Dialogue: 9,0:04:42.14,0:04:45.90,Default,AGEHA,0,0,0,,Evde olmam gereken saati üç dakika geçirdiğim için ablam beni üç saat azarladı.
+Dialogue: 9,0:04:45.90,0:04:48.07,Default,AGEHA,0,0,0,,Hayatım daha verimsiz olamazdı.
+Dialogue: 9,0:04:48.07,0:04:51.85,Default,SAKA,0,0,0,,Ablan güzel biri ama aynı zamanda korkutucu.
+Dialogue: 9,0:04:51.85,0:04:54.79,Default,SAKA,0,0,0,,Dünkü kavgadan haberi var mı?
+Dialogue: 9,0:04:54.79,0:04:57.03,Default,AGEHA,0,0,0,,Sanki ona söylerim, aptal! Beni öldürür!
+Dialogue: 9,0:04:58.91,0:05:01.00,Default,AGEHA,0,0,0,,Ben çok sıkıldım.
+Dialogue: 9,0:05:01.00,0:05:05.14,Default,AGEHA,0,0,0,,Belki de dünkü herifler dostlarının intikamını almak için gelirler.
+Dialogue: 9,0:05:05.14,0:05:08.00,Default,AGEHA,0,0,0,,Onlara okulumu ve sınıfımı bile söyledim.
+Dialogue: 9,0:05:08.00,0:05:10.61,Default,SAKA,0,0,0,,Cidden bela için yer arıyorsun.
+Dialogue: 9,0:05:11.39,0:05:12.96,Default,SAKA,0,0,0,,Hey, bu Buz Kraliçesi.
+Dialogue: 9,0:05:13.32,0:05:15.30,Default,HIROKI,0,0,0,,Bugün gerçekten de okula gelmiş.
+Dialogue: 9,0:05:19.06,0:05:23.93,DefaultItalics,AGEHA/ID,0,0,0,,İsmi Amamiya Sakurako. Lakabı Buz Kraliçesi.
+Dialogue: 9,0:05:24.33,0:05:27.08,DefaultItalics,AGEHA/ID,0,0,0,,Amamiya'nın arkadaşları yok.
+Dialogue: 9,0:05:27.08,0:05:31.38,DefaultItalics,AGEHA/ID,0,0,0,,Neredeyse sınıfımızdaki hiç kimse onunla konuşmadı.
+Dialogue: 9,0:05:31.88,0:05:35.69,DefaultItalics,AGEHA/ID,0,0,0,,Her şey Nisan'ın başında, liseye daha yeni başladığımızda
+Dialogue: 9,0:05:36.24,0:05:41.28,DefaultItalics,AGEHA/ID,0,0,0,,ve Amamiya'nın onun yanına gelen bir grup kıza ne söylediğiyle başladı.
+Dialogue: 9,0:05:41.54,0:05:43.73,Flashback,AMAMIYA,0,0,0,,Psyren geliyor
+Dialogue: 9,0:05:43.73,0:05:47.73,Flashback,AMAMIYA,0,0,0,,ve geldiği zaman onun karşısında aciz solucanlar olacağız.
+Dialogue: 9,0:05:47.73,0:05:48.97,Flashback,AMAMIYA,0,0,0,,Hepimiz öleceğiz.
+Dialogue: 9,0:05:48.97,0:05:50.83,Flashback,AMAMIYA,0,0,0,,Hiçbir şey bilmiyorsunuz
+Dialogue: 9,0:05:51.10,0:05:52.87,Flashback,AMAMIYA,0,0,0,,ama belki de cahillik mutluluktur.
+Dialogue: 9,0:05:52.87,0:05:56.48,Flashback,AMAMIYA,0,0,0,,O zamana kadar bir anlamı olmayan ergenlik yıllarınızın tadını çıkarın.
+Dialogue: 9,0:05:57.92,0:06:01.89,DefaultItalics,AGEHA/ID,0,0,0,,Böylece Amamiya Sakurako dokunulmaz,
+Dialogue: 9,0:06:01.89,0:06:04.56,DefaultItalics,AGEHA/ID,0,0,0,,çok havalı ve aykırı biri oldu.
+Dialogue: 9,0:06:04.56,0:06:08.16,DefaultItalics,AGEHA/ID,0,0,0,,Ve ilk izlenimler kalıcıdır.
+Dialogue: 9,0:06:09.34,0:06:10.99,DefaultItalics,AGEHA/ID,0,0,0,,Ama...
+Dialogue: 9,0:06:12.45,0:06:18.53,DefaultItalics,AGEHA/ID,0,0,0,,çocukken sınıf arkadaşı olduğumuzda Amamiya'nın neşeli, akıllı ve popüler olduğunu hatırlıyorum.
+Dialogue: 9,0:06:18.92,0:06:23.87,DefaultItalics,AGEHA/ID,0,0,0,,Annemin ölümünde yerle bir olmuşken beni nazikçe teselli etmişti.
+Dialogue: 9,0:06:26.62,0:06:28.79,Default,CLASSMATE 1,0,0,0,,O kim olduğunu sanıyor?
+Dialogue: 9,0:06:28.79,0:06:30.23,Default,CLASSMATE 2,0,0,0,,Değil mi?
+Dialogue: 9,0:06:42.58,0:06:44.53,Default,AGEHA,0,0,0,,Bu Amamiya'nın.
+Dialogue: 9,0:06:47.27,0:06:49.17,Default,AGEHA,0,0,0,,Bu telefon kartı...
+Dialogue: 9,0:06:55.50,0:06:57.71,Default,AGEHA,0,0,0,,Amamiya, bu senin mi?
+Dialogue: 9,0:06:59.85,0:07:03.26,Default,AGEHA,0,0,0,,Ciddi misin? En azından teşekkür edebilirdin.
+Dialogue: 9,0:07:03.70,0:07:06.62,Default,AGEHA,0,0,0,,Cüzdanın, şey...
+Dialogue: 9,0:07:06.95,0:07:09.66,Default,AMAMIYA,0,0,0,,Biliyorum. Bu hep oluyor.
+Dialogue: 9,0:07:09.66,0:07:10.56,Default,AMAMIYA,0,0,0,,Teşekkürler.
+Dialogue: 9,0:07:12.87,0:07:17.75,Default,AGEHA,0,0,0,,Doğru ya. O kırmızı telefon kartındaki kelimeyi nasıl telaffuz ediyorsun?
+Dialogue: 9,0:07:18.24,0:07:19.34,Default,AMAMIYA,0,0,0,,Telefon kartı mı?
+Dialogue: 9,0:07:19.34,0:07:21.43,Default,AMAMIYA,0,0,0,,Neyden bahsediyorsun sen?
+Dialogue: 9,0:07:21.43,0:07:23.26,Default,AMAMIYA,0,0,0,,Benim kırmızı bir telefon kartım yok.
+Dialogue: 9,0:07:23.60,0:07:25.97,Default,AMAMIYA,0,0,0,,Benimle oyunlar oynama Yoshina Ageha.
+Dialogue: 9,0:07:25.97,0:07:29.87,Default,AMAMIYA,0,0,0,,Beni dinle. Bilmemenin daha iyi olduğu birçok şey var.
+Dialogue: 9,0:07:30.29,0:07:32.10,Default,AMAMIYA,0,0,0,,Eğer meraktan fazla eşelenirsen...
+Dialogue: 9,0:07:32.98,0:07:34.33,Default,AMAMIYA,0,0,0,,Neden şimdi?
+Dialogue: 9,0:07:35.77,0:07:37.70,Default,AGEHA,0,0,0,,Hey, nereye gidiyorsun?
+Dialogue: 9,0:07:38.32,0:07:39.53,Default,AMAMIYA,0,0,0,,Benim peşimden gelme.
+Dialogue: 9,0:07:39.98,0:07:42.93,Default,AGEHA,0,0,0,,Eğer başın beladaysa bana söyle.
+Dialogue: 9,0:07:42.93,0:07:45.24,Default,AGEHA,0,0,0,,Hizmet ücretim saat başına on bin yen.
+Dialogue: 9,0:07:47.11,0:07:49.83,Default,AMAMIYA,0,0,0,,O zaman bana yardım et.
+Dialogue: 9,0:07:52.01,0:07:52.96,Default,AGEHA,0,0,0,,Amamiya?
+Dialogue: 9,0:08:00.92,0:08:05.13,DefaultItalics,AGEHA/ID,0,0,0,,Amamiya Sakurako sonraki gün ortadan kayboldu.
+Dialogue: 9,0:08:06.38,0:08:09.47,DefaultItalics,AGEHA/ID,0,0,0,,Hakkında birçok dedikodu vardı.
+Dialogue: 9,0:08:09.81,0:08:12.11,DefaultItalics,AGEHA/ID,0,0,0,,Ebeveynlerinin bir tarikatın eline düştüğü,
+Dialogue: 9,0:08:12.11,0:08:16.63,DefaultItalics,AGEHA/ID,0,0,0,,ev içi şiddet, borç toplayan yakuzalar gibi.
+Dialogue: 9,0:08:16.63,0:08:18.81,DefaultItalics,AGEHA/ID,0,0,0,,İnsanlar her türlü saçma şeyin dedikodusunu yapar.
+Dialogue: 9,0:08:20.73,0:08:23.64,DefaultItalics,AGEHA/ID,0,0,0,,Amamiya'nın şu an nerede olduğunu merak ediyorum.
+Dialogue: 9,0:08:24.78,0:08:27.45,Default,SAKA,0,0,0,,"Psyren geliyor", öyle mi?
+Dialogue: 9,0:08:30.45,0:08:32.23,Default,AGEHA,0,0,0,,Ne dedin sen?
+Dialogue: 9,0:08:32.23,0:08:33.83,Default,AGEHA,0,0,0,,Psyren ne demek oluyor?
+Dialogue: 9,0:08:35.39,0:08:39.67,Default,SAKA,0,0,0,,Amamiya senenin başında bunu söylemişti.
+Dialogue: 9,0:08:39.67,0:08:41.25,Default,SAKA,0,0,0,,Sen de duydun bunu.
+Dialogue: 9,0:08:41.57,0:08:44.81,DefaultItalics,AGEHA/ID,0,0,0,,İşte bu. O kelime Psyren şeklinde söyleniyor.
+Dialogue: 9,0:08:45.47,0:08:50.76,Default,HIROKI,0,0,0,,Psyren şehir efsanesindeki gizli cemiyet olabilir mi?
+Dialogue: 9,0:08:50.76,0:08:51.89,Default,AGEHA,0,0,0,,Gizli cemiyet mi?
+Dialogue: 9,0:08:52.19,0:08:55.03,Default,HIROKI,0,0,0,,İnternette şu an çok konuşuluyor.
+Dialogue: 9,0:08:55.03,0:09:02.15,Default,HIROKI,0,0,0,,Gizli cemiyet Psyren gerçek dünyadan yorulanları yeni bir cennete götürüyor.
+Dialogue: 9,0:09:02.15,0:09:05.40,Default,HIROKI,0,0,0,,Ülkenin her yerinde kayıp olan insanları duydun, değil mi?
+Dialogue: 9,0:09:05.40,0:09:06.95,Default,AGEHA,0,0,0,,Gizemli kaybolmalar mı?
+Dialogue: 9,0:09:06.95,0:09:11.24,Default,HIROKI,0,0,0,,Eğer daha fazla öğrenmek istiyorsan neden doğaüstü kulübüne sormuyorsun?
+Dialogue: 9,0:09:16.66,0:09:21.01,Default,OKUMURA,0,0,0,,Ben sen olsam Psyren'in peşinden gitmezdim Yoshina.
+Dialogue: 9,0:09:21.01,0:09:23.00,Default,OKUMURA,0,0,0,,Senin gibi doğaüstü olaylara acemi olan biri
+Dialogue: 9,0:09:23.00,0:09:24.21,Default,OKUMURA,0,0,0,,ölebilir!
+Dialogue: 9,0:09:24.66,0:09:26.13,Default,AGEHA,0,0,0,,Bana açıkla.
+Dialogue: 9,0:09:26.13,0:09:30.13,Default,OKUMURA,0,0,0,,Sanırım o gorili yendiğin için sana borçluyum.
+Dialogue: 9,0:09:30.13,0:09:34.37,Default,OKUMURA,0,0,0,,Haberlerde her yerde olan kayıp vakaları hakkında bir şeyler biliyor musun?
+Dialogue: 9,0:09:34.37,0:09:35.68,Default,AGEHA,0,0,0,,Evet, gizemli kaybolmalar.
+Dialogue: 9,0:09:35.68,0:09:40.53,Default,OKUMURA,0,0,0,,Normal hayatlarını yaşayan insanlar bir gün öylece ortadan kayboluyorlar.
+Dialogue: 9,0:09:40.53,0:09:43.59,Default,OKUMURA,0,0,0,,Ortak olan hiçbir noktaları yok.
+Dialogue: 9,0:09:43.59,0:09:46.19,Default,OKUMURA,0,0,0,,Hiç delil olmadığı için polisler ne yapacaklarını bilemiyorlar
+Dialogue: 9,0:09:46.74,0:09:50.65,Default,OKUMURA,0,0,0,,ama internette bir dedikodu yayılmaya başladı.
+Dialogue: 9,0:09:50.65,0:09:54.41,Default,OKUMURA,0,0,0,,Psyren isimli gizli bir cemiyet ve bunu aracısı Nemesis Q
+Dialogue: 9,0:09:54.41,0:09:57.38,Default,OKUMURA,0,0,0,,bu kaybolma olaylarının sebebi!
+Dialogue: 9,0:09:57.38,0:09:59.13,Default,AGEHA,0,0,0,,Nemesis Q mu?
+Dialogue: 9,0:09:59.46,0:10:03.82,Default,OKUMURA,0,0,0,,Gizemli ve yakalaması zor Nemesis Q'nun gerçek kimliği bilinmiyor.
+Dialogue: 9,0:10:03.82,0:10:06.67,Default,OKUMURA,0,0,0,,Bu kişi bir anda ortaya çıkıp sonra duman gibi ortadan kayboluyor.
+Dialogue: 9,0:10:10.01,0:10:13.33,Default,OKUMURA,0,0,0,,Nemesis Q cenneti arayanlara kırmızı telefon kartları veriyor
+Dialogue: 9,0:10:13.33,0:10:17.27,Default,OKUMURA,0,0,0,,ve onları Psyren'e yönlendiriyor.
+Dialogue: 9,0:10:17.27,0:10:22.90,Default,OKUMURA,0,0,0,,Hatta kaybolanların kırmızı telefon kartları olduğu
+Dialogue: 9,0:10:23.24,0:10:27.86,Default,OKUMURA,0,0,0,,ve bunları kullandıktan sonra götürüldükleri söyleniyor.
+Dialogue: 9,0:10:30.33,0:10:32.15,Default,AGEHA,0,0,0,,Tabi, tabi.
+Dialogue: 9,0:10:32.15,0:10:34.79,Default,AGEHA,0,0,0,,Günümüzde kim telefon kartları kullanır ki?
+Dialogue: 9,0:10:34.79,0:10:37.37,Default,AGEHA,0,0,0,,Bu bana klasik şehir efsanelerinden biri gibi geliyor.
+Dialogue: 9,0:10:38.60,0:10:42.83,Default,OKUMURA,0,0,0,,İş tam da burada iş güzelleşiyor. Aslında...
+Dialogue: 9,0:10:43.16,0:10:49.26,DefaultTop,,0,0,0,,ÇN: 500 milyon yen bugünün tarihiyle 155.794.010 TL'ye tekabül ediyor :)
+Dialogue: 9,0:10:43.16,0:10:45.71,Default,OKUMURA,0,0,0,,Birinin Psyren hakkındaki gerçeği bulana
+Dialogue: 9,0:10:45.71,0:10:49.26,Default,OKUMURA,0,0,0,,500 milyon yen teklif ettiğini söylüyorlar!
+Dialogue: 9,0:10:49.26,0:10:50.38,Default,AGEHA,0,0,0,,500 milyon mu?
+Dialogue: 9,0:10:50.72,0:10:53.99,Default,OKUMURA,0,0,0,,Doğaüstü dünyasında ünlü bir milyarder.
+Dialogue: 9,0:10:53.99,0:10:58.08,Default,OKUMURA,0,0,0,,Ödül bu gizemin çözülmesi için ani bir ilgi uyandırdı.
+Dialogue: 9,0:10:58.08,0:11:00.82,Default,OKUMURA,0,0,0,,Doğaüstü olay fanları, medya, yakuza...
+Dialogue: 9,0:11:00.82,0:11:04.48,Default,OKUMURA,0,0,0,,Herkes bu çılgınlığın içine kapılıp gitti.
+Dialogue: 9,0:11:04.75,0:11:10.03,Default,OKUMURA,0,0,0,,Çevrim içi müzayedelerde oldukça fazla Psyren kartı bulabilirsin.
+Dialogue: 9,0:11:10.03,0:11:12.74,Default,OKUMURA,0,0,0,,Çoğu büyük ihtimalle sahtedir...
+Dialogue: 9,0:11:12.74,0:11:18.12,Default,OKUMURA,0,0,0,,ama gerçek, kullanılmamış bir kart beş milyona satılır.
+Dialogue: 9,0:11:18.12,0:11:20.66,Default,AGEHA,0,0,0,,B-Beş milyon mu?
+Dialogue: 9,0:11:21.64,0:11:26.15,Default,OKUMURA,0,0,0,,Dediğim gibi, en iyisi Psyren'in peşini bırakmak.
+Dialogue: 9,0:11:26.15,0:11:31.26,Default,OKUMURA,0,0,0,,Psyren'i araştırmak için site yöneten biri şimdiden ölü bulundu.
+Dialogue: 9,0:11:38.78,0:11:39.88,Default,AGEHA,0,0,0,,Amamiya...
+Dialogue: 9,0:11:42.54,0:11:44.51,Default,FUBUKI,0,0,0,,Yumruk geliyor...
+Dialogue: 9,0:11:44.51,0:11:45.69,Default,AGEHA,0,0,0,,Bekle, abla!
+Dialogue: 9,0:11:48.49,0:11:49.86,Default,AGEHA,0,0,0,,Acıttı!
+Dialogue: 9,0:11:49.86,0:11:53.99,Default,FUBUKI,0,0,0,,Komşu bir teyze senin kavga ettiğini görmüş.
+Dialogue: 9,0:11:53.99,0:11:58.41,Default,FUBUKI,0,0,0,,Başkalarına sorun çıkarırsan seni öldüreceğimi söylememiş miydim?
+Dialogue: 9,0:11:58.68,0:12:01.38,Default,AGEHA,0,0,0,,Sorun çıkarmıyordum! Birine yardım ediyordum!
+Dialogue: 9,0:12:01.38,0:12:04.92,Default,FUBUKI,0,0,0,,Kapa çeneni! Bana cevap verme çocuk!
+Dialogue: 9,0:12:04.92,0:12:07.72,Default,FUBUKI,0,0,0,,Şu anda lisedesin ama hiç değişmedin.
+Dialogue: 9,0:12:07.72,0:12:10.21,Default,FUBUKI,0,0,0,,Kavga etmek, yaramazlık yapmak, bütün gece dışarıda kalmak...
+Dialogue: 9,0:12:10.21,0:12:13.38,Default,FUBUKI,0,0,0,,Ne yapmaya çalışıyorsun? Geleceğin ne olacak?
+Dialogue: 9,0:12:13.70,0:12:16.09,Default,FUBUKI,0,0,0,,Seni görebilseydi annemiz ağlardı.
+Dialogue: 9,0:12:18.88,0:12:23.27,Default,FUBUKI,0,0,0,,Babamız biraz önce aradı. Senin için endişeleniyor.
+Dialogue: 9,0:12:23.27,0:12:27.48,Default,FUBUKI,0,0,0,,O iş için evde değilken ben senden sorumluyum.
+Dialogue: 9,0:12:27.48,0:12:31.39,Default,FUBUKI,0,0,0,,Kavga ettiğin için cezalısın.
+Dialogue: 9,0:12:31.39,0:12:33.77,Default,FUBUKI,0,0,0,,Sıvışmaya çalış ve seni öldürürüm.
+Dialogue: 9,0:12:37.16,0:12:38.65,Default,AGEHA,0,0,0,,Ay...
+Dialogue: 9,0:12:38.65,0:12:40.66,Default,AGEHA,0,0,0,,Bana bu kadar ağır vurmak zorunda mı?
+Dialogue: 9,0:12:40.94,0:12:43.41,Flashback,FUBUKI,0,0,0,,Geleceğinle ne yapmak istiyorsun?
+Dialogue: 9,0:12:43.82,0:12:45.73,Default,AGEHA,0,0,0,,Bilmiyorum.
+Dialogue: 9,0:12:46.12,0:12:49.72,Default,AGEHA,0,0,0,,Yakın zamanda para hakkında endişelenmem gerekmiyor ki.
+Dialogue: 9,0:12:52.56,0:12:55.14,Default,AGEHA,0,0,0,,Çevrim içi müzayedeler nasıl işliyor?
+Dialogue: 9,0:12:58.68,0:13:01.94,Flashback,OKUMURA,0,0,0,,Nemesis Q cenneti arayanlara kırmızı telefon kartları veriyor
+Dialogue: 9,0:13:01.94,0:13:05.76,Flashback,OKUMURA,0,0,0,,ve onları Psyren'e yönlendiriyor.
+Dialogue: 9,0:13:06.90,0:13:08.81,Flashback,AMAMIYA,0,0,0,,O zaman bana yardım et.
+Dialogue: 9,0:13:22.37,0:13:27.79,Default,AGEHA,0,0,0,,Eğer sana yardım edebilirsem bana on bin yen borçlusun Amamiya.
+Dialogue: 9,0:13:30.63,0:13:34.25,DefaultItalics,AGEHA/ID,0,0,0,,Beş milyon! Kullanılmamış bir kart için beş milyon!
+Dialogue: 9,0:13:37.36,0:13:41.05,Default,AGEHA,0,0,0,,Kullandım! Kullandım Amamiya!
+Dialogue: 9,0:13:46.80,0:13:50.35,DefaultItalics,VOICE,0,0,0,,Günaydın. Dünyalar birleşecek.
+Dialogue: 9,0:13:50.35,0:13:52.49,DefaultItalics,VOICE,0,0,0,,Psyren Göç Kontrolü Merkezi'ne geldiniz.
+Dialogue: 9,0:13:53.62,0:13:56.50,DefaultItalics,VOICE,0,0,0,,Şimdi göç görüşmeniz başlayacak.
+Dialogue: 9,0:13:56.50,0:13:58.40,DefaultItalics,VOICE,0,0,0,,Lütfen soruları yanıtlayınız.
+Dialogue: 9,0:13:59.40,0:14:01.69,DefaultItalics,VOICE,0,0,0,,Sorular çoktan seçmeli olacaktır.
+Dialogue: 9,0:14:02.38,0:14:08.11,DefaultItalics,VOICE,0,0,0,,Evet için biri ve hayır için ikiyi tuşlayın.
+Dialogue: 9,0:14:08.11,0:14:11.65,DefaultItalics,VOICE,0,0,0,,Soru 1: On iki yaşında ya da daha büyük bir Japonya vatandaşı mısınız?
+Dialogue: 9,0:14:11.65,0:14:12.75,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:12.75,0:14:16.25,Default,AGEHA,0,0,0,,Bu ne lan? Şey, bir?
+Dialogue: 9,0:14:16.75,0:14:20.19,DefaultItalics,VOICE,0,0,0,,Soru 2: Bu ülkenin geleceği için umutsuz musunuz?
+Dialogue: 9,0:14:20.19,0:14:21.43,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:22.43,0:14:26.13,DefaultItalics,VOICE,0,0,0,,Soru 3: Hiç beyin travması yaşadınız mı
+Dialogue: 9,0:14:26.13,0:14:28.97,DefaultItalics,VOICE,0,0,0,,ya da size bir zihinsel hastalık teşhisi konuldu mu?
+Dialogue: 9,0:14:28.97,0:14:30.14,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:32.28,0:14:35.18,DefaultItalics,VOICE,0,0,0,,Soru 4: Herhangi bir kronik solunum sıkıntısı çekiyor
+Dialogue: 9,0:14:35.18,0:14:38.99,DefaultItalics,VOICE,0,0,0,,ya da bu dünyanın havasını solumada güçlük çekiyor musunuz?
+Dialogue: 9,0:14:38.99,0:14:40.24,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:41.30,0:14:45.03,DefaultItalics,VOICE,0,0,0,,Soru 12: Kelime kullanmadan iletişim kurabiliyor musunuz?
+Dialogue: 9,0:14:45.03,0:14:46.41,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:47.56,0:14:50.90,DefaultItalics,VOICE,0,0,0,,Soru 18: Hiç mavi kan döktünüz mü?
+Dialogue: 9,0:14:50.90,0:14:52.24,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:53.13,0:14:57.69,DefaultItalics,VOICE,0,0,0,,Soru 30: İnsandan daha büyük bir canlıyı öldürdünüz mü?
+Dialogue: 9,0:14:57.69,0:14:59.01,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:14:59.84,0:15:04.02,DefaultItalics,VOICE,0,0,0,,Soru 60: Lise hayatınızdan tatmin olmadığınızı hissediyor musunuz?
+Dialogue: 9,0:15:04.02,0:15:05.47,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:15:06.72,0:15:11.13,DefaultItalics,VOICE,0,0,0,,Soru 61: Geleceğiniz hakkında düşünmekten kaçınıyor musunuz?
+Dialogue: 9,0:15:11.13,0:15:12.63,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:15:12.63,0:15:14.68,Default,AGEHA,0,0,0,,Bu daha ne kadar sürecek?
+Dialogue: 9,0:15:14.68,0:15:19.50,DefaultItalics,VOICE,0,0,0,,Soru 62: Aileniz tarafından konulan eve dönüş saatine uymamayı düşünüyor musunuz?
+Dialogue: 9,0:15:21.36,0:15:22.82,DefaultItalics,VOICE,0,0,0,,Vefat etmiş anneniz yerine
+Dialogue: 9,0:15:22.82,0:15:25.28,DefaultItalics,VOICE,0,0,0,,ablanızın size vasi olarak davranması sinirinizi bozuyor mu?
+Dialogue: 9,0:15:25.95,0:15:33.25,DefaultItalics,VOICE,0,0,0,,Sadece kendinizi şiddete kaptırdığınızda mı kafanızın dağıldığını düşünüyorsunuz?
+Dialogue: 9,0:15:34.91,0:15:36.71,Default,AGEHA,0,0,0,,Beni izliyorsunuz değil mi?
+Dialogue: 9,0:15:36.71,0:15:40.13,Default,AGEHA,0,0,0,,Saklanmayı bırakın da ortaya çıkın!
+Dialogue: 9,0:15:40.48,0:15:42.82,DefaultItalics,AGEHA/ID,0,0,0,,Beni nereden biliyorlar?
+Dialogue: 9,0:15:42.82,0:15:44.97,DefaultItalics,AGEHA/ID,0,0,0,,Ablam ve annem hakkında bilgileri bile var.
+Dialogue: 9,0:15:49.72,0:15:53.84,DefaultItalics,VOICE,0,0,0,,Telefonu kapatma. Bizi arayan sensin.
+Dialogue: 9,0:15:53.84,0:15:56.90,DefaultItalics,VOICE,0,0,0,,Bunu sana istediğin şeyi vermek için yapıyoruz.
+Dialogue: 9,0:15:57.62,0:15:59.15,Default,AGEHA,0,0,0,,Ne?
+Dialogue: 9,0:15:59.15,0:16:02.74,DefaultItalics,VOICE,0,0,0,,Dünyanın bütün nimetlerinin ayaklarının altında olduğunu düşünüyorsun.
+Dialogue: 9,0:16:03.20,0:16:06.93,DefaultItalics,VOICE,0,0,0,,İstediğin her şeyi yapabileceğini düşünüyorsun
+Dialogue: 9,0:16:06.93,0:16:10.62,DefaultItalics,VOICE,0,0,0,,ama aslında salak bir bakirsin.
+Dialogue: 9,0:16:10.62,0:16:12.95,Default,AGEHA,0,0,0,,Kapa çeneni piç!
+Dialogue: 9,0:16:12.95,0:16:15.14,Default,AGEHA,0,0,0,,Amamiya'yı serbest bırakın!
+Dialogue: 9,0:16:15.14,0:16:17.84,Default,AGEHA,0,0,0,,Ben Shira Lisesi'nden Yoshina Ageha'yım!
+Dialogue: 9,0:16:17.84,0:16:20.63,Default,AGEHA,0,0,0,,Gizli cemiyetin canı cehenneme! Hepiniz adam kaçıran piçlersiniz!
+Dialogue: 9,0:16:22.12,0:16:26.11,DefaultItalics,VOICE,0,0,0,,Son soru: Psyren'e gitmek istiyor musun?
+Dialogue: 9,0:16:26.11,0:16:27.39,DefaultItalics,VOICE,0,0,0,,Evet ya da hayır.
+Dialogue: 9,0:16:27.39,0:16:29.26,Default,AGEHA,0,0,0,,Benimle dalga mı geçiyorsun?
+Dialogue: 9,0:16:32.91,0:16:39.16,Default,AGEHA,0,0,0,,Göreceksiniz. Sizi kendi yöntemimle bulacağım Psyren!
+Dialogue: 9,0:16:44.86,0:16:47.05,Default,WOMAN,0,0,0,,Ne yapıyorlar?
+Dialogue: 9,0:16:48.70,0:16:52.03,Default,MIYAKE,0,0,0,,Usui, burası doğru yer olmalı.
+Dialogue: 9,0:16:52.03,0:16:55.15,Default,MIYAKE,0,0,0,,Bu telefondan dün gece saat birde aramış.
+Dialogue: 9,0:16:55.15,0:16:56.67,Default,USUI,0,0,0,,Onu görebiliyorum.
+Dialogue: 9,0:16:57.24,0:17:01.43,Default,USUI,0,0,0,,Bir çocuk. Bu telefonu kullanan bir liseli.
+Dialogue: 9,0:17:01.43,0:17:03.42,Default,USUI,0,0,0,,Baya salak biri gibi duruyor.
+Dialogue: 9,0:17:04.04,0:17:05.75,Default,USUI,0,0,0,,Bu ne?
+Dialogue: 9,0:17:05.75,0:17:07.76,DefaultItalics,AGEHA,0,0,0,,Kapa çeneni piç!
+Dialogue: 9,0:17:07.76,0:17:10.13,DefaultItalics,AGEHA,0,0,0,,Ben Shira Lisesi'nden Yoshina Ageha'yım!
+Dialogue: 9,0:17:11.92,0:17:12.93,Default,USUI,0,0,0,,Anlıyorum.
+Dialogue: 9,0:17:13.44,0:17:14.80,Default,USUI,0,0,0,,Gidelim Miyake.
+Dialogue: 9,0:17:17.17,0:17:21.11,Default,USUI,0,0,0,,Amatörlerin Psyren'i aradığında başlarına ne geldiğini göstereceğiz.
+Dialogue: 9,0:17:24.16,0:17:26.28,Default,USUI,0,0,0,,Polisle birlikte çalışıyoruz.
+Dialogue: 9,0:17:26.88,0:17:28.57,Default,TEACHER,0,0,0,,Öğrencilerimizden biri bir şey mi yaptı?
+Dialogue: 9,0:17:28.57,0:17:33.20,Default,USUI,0,0,0,,Öyle bir şey değil. Sadece biri için sorularımız olacak.
+Dialogue: 9,0:17:33.46,0:17:35.41,Default,USUI,0,0,0,,Bir fotoğraf listeniz var mı?
+Dialogue: 9,0:17:38.54,0:17:43.21,DefaultItalics,AGEHA/ID,0,0,0,,Eğer o kartla Psyren'i bulamazsam ne yapacağım?
+Dialogue: 9,0:17:43.21,0:17:45.51,DefaultItalics,TEACHER,0,0,0,,1-C sınıfından Yoshina Ageha.
+Dialogue: 9,0:17:45.51,0:17:47.60,DefaultItalics,TEACHER,0,0,0,,Hemen müdürün odasına gelin.
+Dialogue: 9,0:17:47.92,0:17:49.68,Default,SAKA,0,0,0,,Ne yaptın yine?
+Dialogue: 9,0:17:49.68,0:17:53.51,DefaultItalics,TEACHER,0,0,0,,Yoshina Ageha, hemen müdürün odasına gelin!
+Dialogue: 9,0:17:53.51,0:17:58.40,Default,AGEHA,0,0,0,,Acaba müdürün arabası üzerinde ızgara yaptığımı mı öğrendiler?
+Dialogue: 9,0:17:58.40,0:17:59.91,Default,SAKA,0,0,0,,Sen ne işler çeviriyordun lan?
+Dialogue: 9,0:17:59.91,0:18:00.72,Default,HIROKI,0,0,0,,Ageha!
+Dialogue: 9,0:18:01.14,0:18:03.52,Default,HIROKI,0,0,0,,Müdürün odasında polisler var.
+Dialogue: 9,0:18:03.52,0:18:04.52,Default,AGEHA,0,0,0,,Polisler mi?
+Dialogue: 9,0:18:04.52,0:18:06.61,Default,HIROKI,0,0,0,,Ama sahtekarlar.
+Dialogue: 9,0:18:06.93,0:18:10.85,Default,HIROKI,0,0,0,,Küçüklüğümden beri yeterince polis defteri gördüm.
+Dialogue: 9,0:18:10.85,0:18:13.46,Default,AGEHA,0,0,0,,Elbette ki gördün. Baban yüksek rütbeli bir polis.
+Dialogue: 9,0:18:13.46,0:18:16.31,Default,AGEHA,0,0,0,,Sonra görüşürüz beyler. Ben kaçıyorum.
+Dialogue: 9,0:18:16.31,0:18:17.54,Default,SAKA,0,0,0,,Bekle Ageha.
+Dialogue: 9,0:18:17.88,0:18:19.87,DefaultItalics,AGEHA/ID,0,0,0,,Doğaüstü kulübünde olan tip haklıydı.
+Dialogue: 9,0:18:19.87,0:18:22.87,DefaultItalics,AGEHA/ID,0,0,0,,Psyren'i araştıranların başına bela geliyor
+Dialogue: 9,0:18:22.87,0:18:24.84,DefaultItalics,AGEHA/ID,0,0,0,,ama beni nereden biliyorlar ki?
+Dialogue: 9,0:18:29.84,0:18:33.18,Default,USUI,0,0,0,,Nereye gittiğini sanıyorsun Yoshina Ageha?
+Dialogue: 9,0:18:33.62,0:18:36.51,Default,AGEHA,0,0,0,,Peki birkaç sahte polis benden ne istiyor?
+Dialogue: 9,0:18:36.51,0:18:39.86,Default,USUI,0,0,0,,Eğer bizim kim olduğumuzu biliyorsan bu işi kolaylaştırır.
+Dialogue: 9,0:18:39.86,0:18:42.79,Default,USUI,0,0,0,,Bize Psyren kartını ver.
+Dialogue: 9,0:18:42.79,0:18:44.48,Default,USUI,0,0,0,,Sana zarar vermemeyi tercih ederiz.
+Dialogue: 9,0:18:44.77,0:18:46.86,Default,AGEHA,0,0,0,,Neyden bahsettiğinizi bilmiyorum.
+Dialogue: 9,0:18:46.86,0:18:48.30,Default,USUI,0,0,0,,Aptalı oynama.
+Dialogue: 9,0:18:48.30,0:18:52.32,Default,USUI,0,0,0,,Ankesörlü telefon kablolarının hepsini dinliyoruz.
+Dialogue: 9,0:18:53.20,0:18:56.33,Default,AGEHA,0,0,0,,Para  toplamaya çalışan sahtekar adamlar mısınız?
+Dialogue: 9,0:18:56.33,0:18:57.87,Default,USUI,0,0,0,,Para mı?
+Dialogue: 9,0:18:58.69,0:19:01.79,Default,USUI,0,0,0,,O kartın ne kadar değerli olduğunu bilmiyorsun çocuk.
+Dialogue: 9,0:19:09.16,0:19:13.81,Default,USUI,0,0,0,,Psyren'in ne olduğunu ne olduğu hakkında en ufak bir fikrin yok.
+Dialogue: 9,0:19:13.81,0:19:15.98,Default,USUI,0,0,0,,Psyren yüce vasiyettir.
+Dialogue: 9,0:19:15.98,0:19:18.10,Default,USUI,0,0,0,,Başlı başına bir dünya.
+Dialogue: 9,0:19:18.10,0:19:20.06,DefaultItalics,AGEHA/ID,0,0,0,,Bu adam kafayı sıyırmış.
+Dialogue: 9,0:19:20.06,0:19:23.81,Default,USUI,0,0,0,,Psyren kartı uyanmadan önce kıyafetlerini arayın.
+Dialogue: 9,0:19:25.32,0:19:26.02,Default,USUI,0,0,0,,Miyake!
+Dialogue: 9,0:19:31.23,0:19:33.36,Default,USUI,0,0,0,,Kaçıyor! Peşinden gidin!
+Dialogue: 9,0:19:37.62,0:19:39.54,Default,AGEHA,0,0,0,,Lanet olsun! Gözlerim!
+Dialogue: 9,0:19:39.54,0:19:42.46,Default,USUI,0,0,0,,Onu bulun! Kart uyanmaya başladı!
+Dialogue: 9,0:19:43.85,0:19:46.41,DefaultItalics,AGEHA/ID,0,0,0,,Bir telefon mu? Benim değil.
+Dialogue: 9,0:19:46.41,0:19:47.46,DefaultItalics,AGEHA/ID,0,0,0,,Nereden geliyor?
+Dialogue: 9,0:19:48.21,0:19:50.84,DefaultItalics,AGEHA/ID,0,0,0,,Doğru, telefonum! Yardım isteyebilirim!
+Dialogue: 9,0:19:51.56,0:19:53.19,Default,AGEHA,0,0,0,,Hiro, Saka!
+Dialogue: 9,0:19:53.64,0:19:54.93,Default,AGEHA,0,0,0,,Lanet olsun, göremiyorum!
+Dialogue: 9,0:19:56.76,0:19:59.22,Default,AGEHA,0,0,0,,Kapa çeneni! Bu lanet şey de neyin nesi?
+Dialogue: 9,0:20:00.56,0:20:01.77,Default,MIYAKE,0,0,0,,Buldum seni!
+Dialogue: 9,0:20:02.93,0:20:04.99,Default,AGEHA,0,0,0,,Biri, kim olursa!
+Dialogue: 9,0:20:04.99,0:20:06.60,Default,AGEHA,0,0,0,,Telefona cevap verin lütfen!
+Dialogue: 9,0:20:21.74,0:20:25.12,Default,AGEHA,0,0,0,,Ne? Bu da ne?
+Dialogue: 9,0:20:25.12,0:20:26.40,Default,AGEHA,0,0,0,,Neler oluyor?
+Dialogue: 9,0:20:26.81,0:20:29.11,Default,AGEHA,0,0,0,,Rüya mı görüyorum?
+Dialogue: 9,0:20:29.11,0:20:30.46,Default,AGEHA,0,0,0,,Orada biri mi var?
+Dialogue: 9,0:20:30.86,0:20:33.13,Default,MAN,0,0,0,,Y-Yardım edin!
+Dialogue: 9,0:20:33.13,0:20:34.34,Default,AGEHA,0,0,0,,Sen iyi misin?
+Dialogue: 9,0:20:39.22,0:20:40.25,Default,AGEHA,0,0,0,,Ne?
+Dialogue: 9,0:20:44.98,0:20:46.56,Default,AGEHA,0,0,0,,Öldü mü?
+Dialogue: 9,0:20:49.52,0:20:50.77,Default,AMAMIYA,0,0,0,,Yere yat Yoshina!
+Dialogue: 9,0:20:58.19,0:20:59.85,Default,AGEHA,0,0,0,,A-Amamiya!
+Dialogue: 9,0:20:59.85,0:21:03.17,Default,AMAIYA,0,0,0,,Burada ne yapıyorsun?
+Dialogue: 9,0:21:03.17,0:21:07.07,Default,AGEHA,0,0,0,,Ne? Şey, emin değilim.
+Dialogue: 9,0:21:07.07,0:21:09.84,Default,AMAMIYA,0,0,0,,Psyren'i aradın, değil mi?
+Dialogue: 9,0:21:09.84,0:21:12.13,Default,AMAMIYA,0,0,0,,Kartı kullandın, değil mi?
+Dialogue: 9,0:21:12.13,0:21:14.71,Default,AGEHA,0,0,0,,Kullandım, nefes alamıyorum!
+Dialogue: 9,0:21:14.71,0:21:20.51,Default,AMAMIYA,0,0,0,,Salak, ne yaptığın hakkında bir fikrin yok! Neden?
+Dialogue: 9,0:21:20.77,0:21:23.22,Default,AGEHA,0,0,0,,B-Bana yardım etmemi söyledin.
+Dialogue: 9,0:21:24.76,0:21:29.23,Default,AGEHA,0,0,0,,Yardıma ihtiyacın olduğunu duydum.
+Dialogue: 9,0:21:38.69,0:21:40.74,Default,AMAMIYA,0,0,0,,Çok salaksın.
+Dialogue: 9,0:21:41.52,0:21:46.49,DefaultItalics,AGEHA/ID,0,0,0,,O anda birini aradığımı sanıyordum, ama sanırım birini yanıtlamışım.
+Dialogue: 9,0:21:46.99,0:21:49.52,DefaultItalics,AGEHA/ID,0,0,0,,Gizemli Nemesi Q'nun araması.
+Dialogue: 9,0:21:50.13,0:21:53.67,DefaultItalics,AGEHA/ID,0,0,0,,Bu ölümcül oyunumun başlangıcıydı.
+Dialogue: 9,0:21:54.95,0:21:56.08,DefaultItalics,AGEHA/ID,0,0,0,,Psyren...
+Dialogue: 9,0:21:56.86,0:21:58.79,DefaultItalics,AGEHA/ID,0,0,0,,Başlı başına bir dünya.
+Dialogue: 9,0:21:59.70,0:22:02.54,DefaultItalics,VOICE,0,0,0,,Dünyalar birleşecek.
+Dialogue: 0,0:01:58.26,0:02:03.27,Signs_EpTitle,SIGN,0,0,0,,{\fad(525,523)\an9\blur6\fs54\pos(1773,825)}Bölüm 1 {\fs72}Şehir Efsanesi
+Dialogue: 0,0:06:42.18,0:06:46.93,Signs,SIGN,0,0,0,,{\blur0.6\fs24\fnTimes New Roman\frz12.53\pos(601.5,280.5)\fax-0.02}Shirataki Lisesi Öğrenci Kimliği
+Dialogue: 0,0:06:42.18,0:06:46.93,Signs,SIGN,0,0,0,,{\blur0.6\an7\fs24\fnTimes New Roman\frz12.53\fax-0.02\c&H655B5D&\pos(643.5,321)}Genel Eğitim, 1-C Sınıfı
+Dialogue: 0,0:09:11.24,0:09:12.70,Signs,SIGN,0,0,0,,{\fs108\bord7.5\fnArial Black\c&H222657&\3c&H4A75BE&}Doğaüstü Kulübü
+Dialogue: 0,0:12:55.47,0:12:58.68,Signs,SIGN,0,0,0,,{\an7\fs36\c&H9A7D63&\pos(742.5,265.5)}Haberler
+Dialogue: 0,0:12:55.47,0:12:58.68,Signs,SIGN,0,0,0,,{\an7\fs36\c&H9A7D63&\pos(738,447)}Kayıp Vakalarına Bir Kurban \N Daha Ekleniyor
+Dialogue: 0,0:17:21.11,0:17:22.94,Signs,SIGN,0,0,0,,{\fs57\bord6\fnTimes New Roman\c&HF6F5F6&\3c&H5B4B44&\pos(1456.5,171)}Shirataki Lisesi
+Dialogue: 0,0:23:35.14,0:23:40.02,Signs_EpTitle,SIGN,0,0,0,,{\fad(524,1)\fsp3\blur6\pos(960,330)}2. Bölüm\N\N\N\N\N\N\N\N{\fs120}Tavoo
