@@ -1,0 +1,26 @@
+[Script Info]
+Title: pn-SomeSubs - PSYREN
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,54,0
+Style: Signs_EpTitle,Times New Roman,75,&H00FFFFFF,&H000000FF,&H28C45E4B,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,8,90,90,54,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:58.26,0:02:03.27,Signs_EpTitle,SIGN,0,0,0,,{\fad(525,523)\an9\blur6\fs54\pos(1773,825)}Bölüm 1 {\fs72}Şehir Efsanesi
+Dialogue: 0,0:06:42.18,0:06:46.93,Signs,SIGN,0,0,0,,{\blur0.6\fs24\fnTimes New Roman\frz12.53\pos(601.5,280.5)\fax-0.02}Shirataki Lisesi Öğrenci Kimliği
+Dialogue: 0,0:06:42.18,0:06:46.93,Signs,SIGN,0,0,0,,{\blur0.6\an7\fs24\fnTimes New Roman\frz12.53\fax-0.02\c&H655B5D&\pos(643.5,321)}Genel Eğitim, 1-C Sınıfı
+Dialogue: 0,0:09:11.24,0:09:12.70,Signs,SIGN,0,0,0,,{\fs108\bord7.5\fnArial Black\c&H222657&\3c&H4A75BE&}Doğaüstü Kulübü
+Dialogue: 0,0:12:55.47,0:12:58.68,Signs,SIGN,0,0,0,,{\an7\fs36\c&H9A7D63&\pos(742.5,265.5)}Haberler
+Dialogue: 0,0:12:55.47,0:12:58.68,Signs,SIGN,0,0,0,,{\an7\fs36\c&H9A7D63&\pos(738,447)}Kayıp Vakalarına Bir Kurban \N Daha Ekleniyor
+Dialogue: 0,0:17:21.11,0:17:22.94,Signs,SIGN,0,0,0,,{\fs57\bord6\fnTimes New Roman\c&HF6F5F6&\3c&H5B4B44&\pos(1456.5,171)}Shirataki Lisesi
+Dialogue: 0,0:23:35.14,0:23:40.02,Signs_EpTitle,SIGN,0,0,0,,{\fad(524,1)\fsp3\blur6\pos(960,330)}2. Bölüm\N\N\N\N\N\N\N\N{\fs120}Tavoo
