@@ -15,19 +15,11 @@ Style: Default,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 Style: DefaultItalics,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 Style: DefaultTop,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
 Style: DefaultItalicsTop,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
-Style: DefaultOverlap,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 Style: Flashback,Trebuchet MS,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
-Style: FlashbackItalics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
-Style: FlashbackTop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
-Style: FlashbackItalicsTop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
-Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
-Style: Signs,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,54,0
-Style: Signs_EpTitle,Times New Roman,75,&H00FFFFFF,&H000000FF,&H28C45E4B,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,8,90,90,54,0
-Style: Credits,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,8,90,90,54,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.00,DefaultItalics,,0,0,0,,{\fs50\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} MykoAecor\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} \N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} MykoAecor\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:00.00,0:00:10.00,DefaultItalics,,0,0,0,,{\fs50\an7\fe162\b1\fad(400,400)\bord2\blur5\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} MykoAecor\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} \N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} MykoAecor\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
 Dialogue: 0,0:00:01.56,0:00:03.08,DefaultItalics,SIGN & VO,0,0,0,,Efsaneyi biliyor musun?
 Dialogue: 0,0:00:03.08,0:00:04.98,DefaultItalics,SIGN & VO,0,0,0,,Ankesörlü telefonlar hakkında acayip bir şey duydum.
 Dialogue: 0,0:00:04.98,0:00:07.58,DefaultItalics,SIGN & VO,0,0,0,,Eğer telefonu açarsan cennete alınırmışsın.
@@ -36,10 +28,9 @@ Dialogue: 0,0:00:09.49,0:00:11.66,DefaultItalics,SIGN & VO,0,0,0,,Ankesörlü te
 Dialogue: 0,0:00:12.08,0:00:13.86,DefaultItalics,SIGN & VO,0,0,0,,Hala onlardan var mı?
 Dialogue: 0,0:00:14.49,0:00:16.99,DefaultItalics,SIGN & VO,0,0,0,,Okulda onların nasıl kullanıldığını öğrenmiştim.
 Dialogue: 0,0:00:16.99,0:00:19.50,DefaultItalicsTop,SIGN & VO,0,0,0,,Televizyonda gördüm. İnsanlar kaybolmaya başlamış.
-Dialogue: 0,0:01:58.26,0:02:03.27,Signs_EpTitle,SIGN,0,0,0,,{\fad(525,523)\an9\blur6\fs54\pos(1773,825)}Bölüm 1 {\fs72}Şehir Efsanesi
 Dialogue: 0,0:02:01.23,0:02:03.00,DefaultTop,HENCHMAN 1,0,0,0,,Siz iyi misiniz Hando Bey?
 Dialogue: 0,0:02:03.00,0:02:05.05,DefaultTop,HENCHMAN 2,0,0,0,,Dayanın!
-Dialogue: 0,0:02:05.05,0:02:07.04,Default,HENCHMAN 1,0,0,0,,Bu bücür de {\i1}kim?{\i0}
+Dialogue: 0,0:02:05.05,0:02:07.04,Default,HENCHMAN 1,0,0,0,,Bu bücür de {\i1}kim?
 Dialogue: 0,0:02:07.04,0:02:08.19,Default,AGEHA,0,0,0,,Kime bücür diyorsun?
 Dialogue: 0,0:02:08.86,0:02:12.45,Default,AGEHA,0,0,0,,Ben Shira Lisesi 1-C'den Yoshina Ageha'yım.
 Dialogue: 0,0:02:12.45,0:02:17.96,Default,AGEHA,0,0,0,,Öğrencilerimizden zorla para aldığı için o gorile bir ders verdim.
@@ -111,8 +102,6 @@ Dialogue: 0,0:06:12.45,0:06:18.53,DefaultItalics,AGEHA/ID,0,0,0,,çocukken sın�
 Dialogue: 0,0:06:18.92,0:06:23.87,DefaultItalics,AGEHA/ID,0,0,0,,Annemin ölümünde yerle bir olmuşken beni nazikçe teselli etmişti.
 Dialogue: 0,0:06:26.62,0:06:28.79,Default,CLASSMATE 1,0,0,0,,O kim olduğunu sanıyor?
 Dialogue: 0,0:06:28.79,0:06:30.23,Default,CLASSMATE 2,0,0,0,,Değil mi?
-Dialogue: 0,0:06:42.18,0:06:46.93,Signs,SIGN,0,0,0,,{\blur0.6\fs24\fnTimes New Roman\frz12.53\pos(601.5,280.5)\fax-0.02}Shirataki Lisesi Öğrenci Kimliği
-Dialogue: 0,0:06:42.18,0:06:46.93,Signs,SIGN,0,0,0,,{\blur0.6\an7\fs24\fnTimes New Roman\frz12.53\fax-0.02\c&H655B5D&\pos(643.5,321)}Genel Eğitim, 1-C Sınıfı
 Dialogue: 0,0:06:42.58,0:06:44.53,Default,AGEHA,0,0,0,,Bu Amamiya'nın.
 Dialogue: 0,0:06:47.27,0:06:49.17,Default,AGEHA,0,0,0,,Bu telefon kartı...
 Dialogue: 0,0:06:55.50,0:06:57.71,Default,AGEHA,0,0,0,,Amamiya, bu senin mi?
@@ -153,7 +142,6 @@ Dialogue: 0,0:08:55.03,0:09:02.15,Default,HIROKI,0,0,0,,Gizli cemiyet Psyren ger
 Dialogue: 0,0:09:02.15,0:09:05.40,Default,HIROKI,0,0,0,,Ülkenin her yerinde kayıp olan insanları duydun, değil mi?
 Dialogue: 0,0:09:05.40,0:09:06.95,Default,AGEHA,0,0,0,,Gizemli kaybolmalar mı?
 Dialogue: 0,0:09:06.95,0:09:11.24,Default,HIROKI,0,0,0,,Eğer daha fazla öğrenmek istiyorsan neden doğaüstü kulübüne sormuyorsun?
-Dialogue: 0,0:09:11.24,0:09:12.70,Signs,SIGN,0,0,0,,{\fs108\bord7.5\fnArial Black\c&H222657&\3c&H4A75BE&}Doğaüstü Kulübü
 Dialogue: 0,0:09:16.66,0:09:21.01,Default,OKUMURA,0,0,0,,Ben sen olsam Psyren'in peşinden gitmezdim Yoshina.
 Dialogue: 0,0:09:21.01,0:09:23.00,Default,OKUMURA,0,0,0,,Senin gibi doğaüstü olaylara acemi olan biri
 Dialogue: 0,0:09:23.00,0:09:24.21,Default,OKUMURA,0,0,0,,ölebilir!
@@ -214,8 +202,6 @@ Dialogue: 0,0:12:40.94,0:12:43.41,Flashback,FUBUKI,0,0,0,,Geleceğinle ne yapmak
 Dialogue: 0,0:12:43.82,0:12:45.73,Default,AGEHA,0,0,0,,Bilmiyorum.
 Dialogue: 0,0:12:46.12,0:12:49.72,Default,AGEHA,0,0,0,,Yakın zamanda para hakkında endişelenmem gerekmiyor ki.
 Dialogue: 0,0:12:52.56,0:12:55.14,Default,AGEHA,0,0,0,,Çevrim içi müzayedeler nasıl işliyor?
-Dialogue: 0,0:12:55.47,0:12:58.68,Signs,SIGN,0,0,0,,{\an7\fs36\c&H9A7D63&\pos(742.5,265.5)}Haberler
-Dialogue: 0,0:12:55.47,0:12:58.68,Signs,SIGN,0,0,0,,{\an7\fs36\c&H9A7D63&\pos(738,447)}Kayıp Vakalarına Bir Kurban \N Daha Ekleniyor
 Dialogue: 0,0:12:58.68,0:13:01.94,Flashback,OKUMURA,0,0,0,,Nemesis Q cenneti arayanlara kırmızı telefon kartları veriyor
 Dialogue: 0,0:13:01.94,0:13:05.76,Flashback,OKUMURA,0,0,0,,ve onları Psyren'e yönlendiriyor.
 Dialogue: 0,0:13:06.90,0:13:08.81,Flashback,AMAMIYA,0,0,0,,O zaman bana yardım et.
@@ -284,7 +270,6 @@ Dialogue: 0,0:17:07.76,0:17:10.13,DefaultItalics,AGEHA,0,0,0,,Ben Shira Lisesi'n
 Dialogue: 0,0:17:11.92,0:17:12.93,Default,USUI,0,0,0,,Anlıyorum.
 Dialogue: 0,0:17:13.44,0:17:14.80,Default,USUI,0,0,0,,Gidelim Miyake.
 Dialogue: 0,0:17:17.17,0:17:21.11,Default,USUI,0,0,0,,Amatörlerin Psyren'i aradığında başlarına ne geldiğini göstereceğiz.
-Dialogue: 0,0:17:21.11,0:17:22.94,Signs,SIGN,0,0,0,,{\fs57\bord6\fnTimes New Roman\c&HF6F5F6&\3c&H5B4B44&\pos(1456.5,171)}Shirataki Lisesi
 Dialogue: 0,0:17:24.16,0:17:26.28,Default,USUI,0,0,0,,Polisle birlikte çalışıyoruz.
 Dialogue: 0,0:17:26.88,0:17:28.57,Default,TEACHER,0,0,0,,Öğrencilerimizden biri bir şey mi yaptı?
 Dialogue: 0,0:17:28.57,0:17:33.20,Default,USUI,0,0,0,,Öyle bir şey değil. Sadece biri için sorularımız olacak.
@@ -361,4 +346,3 @@ Dialogue: 0,0:21:50.13,0:21:53.67,DefaultItalics,AGEHA/ID,0,0,0,,Bu ölümcül o
 Dialogue: 0,0:21:54.95,0:21:56.08,DefaultItalics,AGEHA/ID,0,0,0,,Psyren...
 Dialogue: 0,0:21:56.86,0:21:58.79,DefaultItalics,AGEHA/ID,0,0,0,,Başlı başına bir dünya.
 Dialogue: 0,0:21:59.70,0:22:02.54,DefaultItalics,VOICE,0,0,0,,Dünyalar birleşecek.
-Dialogue: 0,0:23:35.14,0:23:40.02,Signs_EpTitle,SIGN,0,0,0,,{\fad(524,1)\fsp3\blur6\pos(960,330)}2. Bölüm\N\N\N\N\N\N\N\N{\fs120}Tavoo
